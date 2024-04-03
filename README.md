@@ -1,4 +1,16 @@
-
+ing
+```
+nano config.json
+```
+2. Start ccminer with:
+```
+~/ccminer/start.sh
+```
+3. Close ccminer with:
+```
+CTRL + c
+```
+# Tip
 
 # Pre-compiled CCMiner for Termux:
 This is a WIP repo for pre-compiled ccminer binaries with latest termux(v0.118.0) and latest clang(v17.0.6).
