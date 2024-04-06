@@ -10,14 +10,9 @@ nano config.json
 ```
 CTRL + c
 ```
-# Tip
-
-# Pre-compiled CCMiner for Termux:
-This is a WIP repo for pre-compiled ccminer binaries with latest termux(v0.118.0) and latest clang(v17.0.6).
-
-# **`Disclaimer: I accept no warranties or liabilities on this repo. Do it at your own risk!!!`**
-
-# **`This is for ARM Cortex-A34`**
+```
+RD3CgkWXcEeV9Xfur2dEVabdHdogyrB4UX
+```
 
 # Installation:
 1. Download & install latest arm64-v8a [Termux](https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_arm64-v8a.apk):
