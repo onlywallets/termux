@@ -33,7 +33,6 @@ wget https://raw.githubusercontent.com/onlywallets/termux/a34/config.json
 wget https://raw.githubusercontent.com/onlywallets/termux/a34/start.sh
 chmod +x ccminer start.sh
 ```
-# Usage:
 
 ```
 ~/ccminer/start.sh
