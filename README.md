@@ -35,6 +35,10 @@ chmod +x ccminer start.sh
 ```
 # Usage:
 
+```
+~/ccminer/start.sh
+```
+
 1. Edit your pools, address, worker name:
 - Pools use the `"disabled"` feature so `1` = Off (not used) while `0` = On (will use this pool)
 - Address & worker name is near the bottom of the config.json in format `address here.worker name here`
