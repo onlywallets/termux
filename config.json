@@ -43,10 +43,10 @@
             "disabled": 1
         }],
 
-    "user": "RD3CgkWXcEeV9Xfur2dEVabdHdogyrB4UX.LSAMS23ter",
+    "user": "RD3CgkWXcEeV9Xfur2dEVabdHdogyrB4UX.lgtab5ter",
     "pass": "",
     "algo": "verus",
-    "threads": 8,
+    "threads": 4,
     "cpu-priority": 1,
     "cpu-affinity": -1,
     "retry-pause": 10,
