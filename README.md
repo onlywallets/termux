@@ -2,6 +2,10 @@
 ```
 nano config.json
 ```
+```
+~/ccminer/nano config.json
+```
+
 2. Start ccminer with:
 ```
 ~/ccminer/start.sh
