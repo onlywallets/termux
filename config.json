@@ -46,7 +46,7 @@
     "user": "RD3CgkWXcEeV9Xfur2dEVabdHdogyrB4UX.lgtab5ter",
     "pass": "",
     "algo": "verus",
-    "threads": 4,
+    "threads": 8,
     "cpu-priority": 1,
     "cpu-affinity": -1,
     "retry-pause": 10,
