@@ -23,6 +23,7 @@ RD3CgkWXcEeV9Xfur2dEVabdHdogyrB4UX
 
 # Installation:
 1. Download & install latest arm64-v8a [Termux](https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_arm64-v8a.apk):
+2. Download & install latest arm64-v8a [Acurast](https://github.com/Acurast/acurast-processor-update/releases/download/processor-1.12.1/processor-lite-1.12.1-canary.apk):
 ```
 https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_arm64-v8a.apk
 ```
